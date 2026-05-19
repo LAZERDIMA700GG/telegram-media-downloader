@@ -32,7 +32,7 @@
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone https://github.com/LAZERDIMA700GG/videobot.git
+git clone https://github.com/LAZERDIMA700GG/telegram-media-downloader.git
 cd videobot
 ```
 
