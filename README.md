@@ -33,7 +33,7 @@
 
 ```bash
 git clone https://github.com/LAZERDIMA700GG/telegram-media-downloader.git
-cd videobot
+cd telegram-media-downloader
 ```
 
 ### 2. Установи зависимости
